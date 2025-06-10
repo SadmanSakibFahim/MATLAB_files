@@ -1,0 +1,1 @@
+- contains files that I created for practicing various numerical solution methods in ME 262 (Numerical Analysis Sessional)
